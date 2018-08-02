@@ -1,6 +1,10 @@
 # First
 test1
 
+```js
+function(){}
+```
+
 ---
 
 # Second
